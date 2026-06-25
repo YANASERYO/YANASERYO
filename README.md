@@ -46,5 +46,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AMD Ryzen](https://img.shields.io/badge/AMD_Ryzen-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![Shrine System](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:166534&height=180&section=header&text=Shrine%20Pray%20Service&fontSize=36&fontColor=ffffff)
