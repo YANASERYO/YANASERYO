@@ -33,6 +33,8 @@ ERPシステムを目指しています(志は高く)
 ## GitHub
 
 個人開発を通じて、学習した内容を少しずつ形にしています。
+shrinepraayservice
+odayama-webは将来的に結合予定です
 
 ## Skills
 
